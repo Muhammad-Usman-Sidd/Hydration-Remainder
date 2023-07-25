@@ -24,7 +24,7 @@ The Hydration Reminder Application is a Python script that provides periodic rem
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hydration-reminder.git
+git clone https://github.com/Muhammad-Usman-Sidd/hydration-reminder.git
 cd hydration-reminder
 Install dependencies:
 bash
@@ -46,4 +46,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For inquiries, email your.email@example.com.
+For inquiries,usman.the.coder@gmail.com.
