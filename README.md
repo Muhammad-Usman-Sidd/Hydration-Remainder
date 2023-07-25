@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/yourusername/hydration-reminder/commits/main"><img src="https://img.shields.io/github/last-commit/yourusername/hydration-reminder" alt="GitHub last commit"></a>
 </p>
 
 <p align="center">
