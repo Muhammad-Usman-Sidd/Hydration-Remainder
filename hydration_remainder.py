@@ -1,10 +1,10 @@
 import pyttsx3
-import tkinter as tk
+import tkinter
 from tkinter import messagebox
 import time
-repeating_time = 50  # this will repeat after 50 seconds
 a = input("Enter your name :")
-
+seconds = int(input("After how many seconds you want this application to send remainder again ? "))
+repeating_time = seconds
 while True:
 
     def speak(text):
@@ -14,7 +14,7 @@ while True:
     speak(f"hey {a} , drink water!")
 
     def display_alert(title, message):
-        b = tk.Tk()
+        b = tkinter.Tk()
         b.withdraw()
         messagebox.showinfo(title, message)
     display_alert(f"For {a}", "Drink water!")
