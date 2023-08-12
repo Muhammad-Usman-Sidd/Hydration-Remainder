@@ -29,8 +29,8 @@ The application will then run in a loop, sending reminders to drink water to you
 
 For any questions or suggestions, feel free to reach out to the author:
 
-- **Author:** [Your Name]
-- **Email:** [Your Email Address]
+- **Author:** [Muhammad Usman]
+- **Email:** [usman.the.coder@gmail.com]
 
 Feel free to use, modify, and share this application according to your needs.
 
